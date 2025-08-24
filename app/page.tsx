@@ -735,7 +735,7 @@ export default function TRPGPortfolio() {
               <p className="text-foreground">最新のスケジュールはこちら</p>
               <a href="https://character-sheets.appspot.com/schedule/list?key=ahVzfmNoYXJhY3Rlci1zaGVldHMtbXByHwsSEkRpc2NvcmRTZXNzaW9uRGF0YRiAgMDGwrrSCAw" target="_blank" rel="noopener noreferrer">
               <Button className="bg-primary hover:bg-primary/90 text-primary-foreground">
-                Daycordでスケジュールを確認
+                デイコードでスケジュールを確認
               </Button>
               </a>
             </CardContent>
