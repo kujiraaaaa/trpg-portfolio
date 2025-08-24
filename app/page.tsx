@@ -232,7 +232,7 @@ const characters = {
       name: "宝々命　壱",
       icon: "/chara/ichi_01.png?height=80&width=80",
       images: [
-        "/chara/ichi_02.jpg?height=400&width=300",
+        "/chara/ichi_02.png?height=400&width=300",
       ],
     },
   ],
