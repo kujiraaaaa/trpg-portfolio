@@ -50,7 +50,7 @@ const characters = {
       name: "為折　湊",
       icon: "/chara/minato_01.png?height=80&width=80",
       images: [
-        "/chara/minato_02.jpg?height=400&width=300",
+        "/chara/minato_02.png?height=400&width=300",
       ],
     },
     {
