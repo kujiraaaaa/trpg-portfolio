@@ -19,10 +19,10 @@ const openSans = Open_Sans({
 })
 
 const notoSansJp = Noto_Sans_JP({
-  subsets: ["latin"], // 'latin'の指定で日本語も適切に扱われます
+  subsets: ["latin"],
   display: "swap",
-  variable: "--font-noto-sans-jp", // CSSで使うための変数名
-  weight: ["400", "700"], // 400=通常, 700=Bold
+  variable: "--font-noto-sans-jp",
+  weight: ["400", "700"],
 })
 
 export const metadata: Metadata = {
