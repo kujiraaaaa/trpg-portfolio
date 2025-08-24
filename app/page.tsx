@@ -411,7 +411,7 @@ export default function TRPGPortfolio() {
       <div className="fixed inset-0 z-0 bg-background/20" />
       
       {/* Overlay */}
-      <div className="fixed inset-0 z-0 bg-black/30 dark:bg-black/70" />
+      <div className="fixed inset-0 z-0 bg-white/60 dark:bg-black/70" />
       
       {/* Header */}
       <header className="relative z-10 glass border-b border-white/20 sticky top-0">
